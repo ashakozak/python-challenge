@@ -48,6 +48,7 @@ with open(path, 'r') as csvplik:
     print(names_list[1] + ": " + f"{diana_percentage: .3f}%" + ' (' + str(diana_counts) + ')' )
     print(names_list[2] + ": " + f"{raymon_percentage: .3f}%" + ' (' + str(raymon_counts) + ')' )
     print("-------------------------")   
+    print("Asha the best")
     
     #Creating a dictionary with candidates and their counts
     votes = {
